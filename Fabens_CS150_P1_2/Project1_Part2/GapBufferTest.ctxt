@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GapBufferTest
+comment0.text=\r\n\ The\ test\ class\ GapBufferTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ toStringTest()
+comment1.text=\r\n\ Testing\ toString\r\n
+comment2.params=
+comment2.target=void\ load_stringTest()
+comment2.text=\r\n\ Testing\ load_string\r\n
+comment3.params=
+comment3.target=void\ lengthTest()
+comment3.text=\r\n\ Testing\ length\r\n
+comment4.params=
+comment4.target=void\ cursor_moveTest()
+comment4.text=\r\n\ Testing\ cursor\ movement\r\n
+comment5.params=
+comment5.target=void\ remove_char_toleftTest()
+comment5.text=\r\n\ Testing\ remove_char_toleft\r\n
+comment6.params=
+comment6.target=void\ insert_text_charTest()
+comment6.text=\r\n\ Testing\ insert_text(char)\r\n
+comment7.params=
+comment7.target=void\ insert_text_strTest()
+comment7.text=\r\n\ Testing\ insert_text(String)\r\n
+numComments=8

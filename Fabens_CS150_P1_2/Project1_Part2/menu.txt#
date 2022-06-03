@@ -1,0 +1,27 @@
+Helpful Tip: You don't need to create a file to start writing. Simply use any of the additive data
+manipulation commands ['e', 'aa', 'ab'], and a new document will automatically be created. To save,
+you will still have to provide a filename.
+
+o xxxxx - Open a file named “xxxxx”.
+c       - Save the current loaded data to the originating file.
+s xxxxx - Save the current loaded data to a new file, with filename xxxxx. The filename entered can
+          have the file extension .txt or .csv. Default is .txt if no valid extension is provided.
+p       - Print the contents of the document.
+e xxxxx - Edits the current-line, using the current cursor position, and inserts the string “xxxxx”.
+rm      - Removes the character to the left of the cursor.
+rm x    - Removes x characters to the left of the cursor.
+r       - Move right one character.
+r x     - Move right x characters.
+l       - Move left one character.
+l x     - Move left x characters.
+d       - Move down one line, preserving the cursor position, not adding any new lines.
+d x     - Move down x lines, preserving the cursor position, not adding any new lines.
+u       - Move up one line, preserving the cursor position, not adding any new lines.
+u x     - Move up one line, preserving the cursor position, not adding any new lines.
+q       - Exit the program, without saving any data.
+ab      - Add a blank line below the current-line.
+aa      - Add a blank line above the current-line.
+dl      - Delete the current-line.
+dl x    - Delete the current-line, and x - 1 lines below. If there are only less than x lines
+          available, only remove those lines.
+cl      - Clear the currently loaded data from the program.
